@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NavExpo\\NavExpo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\MapUploader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nav-expo\\src\\MapUploader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\MapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NavExpo\\NavExpo\\Controllers\\MapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nav-expo\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nav-expo\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Program.cs",
+              "RelativeDocumentMoniker": "NavExpo\\NavExpo\\Program.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Program.cs",
+              "RelativeToolTip": "NavExpo\\NavExpo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:55:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\MapController.cs",
+              "RelativeDocumentMoniker": "NavExpo\\NavExpo\\Controllers\\MapController.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\MapController.cs",
+              "RelativeToolTip": "NavExpo\\NavExpo\\Controllers\\MapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:37:58.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\index.js",
+              "RelativeDocumentMoniker": "nav-expo\\src\\index.js",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\index.js",
+              "RelativeToolTip": "nav-expo\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-19T15:25:46.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\App.js",
+              "RelativeDocumentMoniker": "nav-expo\\src\\App.js",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\App.js",
+              "RelativeToolTip": "nav-expo\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-19T15:25:36.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapUploader.js",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\MapUploader.js",
+              "RelativeDocumentMoniker": "nav-expo\\src\\MapUploader.js",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\nav-expo\\src\\MapUploader.js",
+              "RelativeToolTip": "nav-expo\\src\\MapUploader.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-19T14:56:52.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

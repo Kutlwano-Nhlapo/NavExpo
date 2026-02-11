@@ -1,0 +1,6 @@
+@NavExpo_HostAddress = http://localhost:5260
+
+GET {{NavExpo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

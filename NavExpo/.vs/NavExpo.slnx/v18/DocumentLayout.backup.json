@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\controllers\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\controllers\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\data\\migrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\data\\migrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\data\\dbversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\data\\dbversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\models\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\models\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|c:\\users\\kutlw\\documents\\navigationexplorer\\navexpo\\navexpo\\models\\stall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E808937A-4EC5-61E2-391A-070079F73903}|NavExpo\\NavExpo.csproj|solutionrelative:navexpo\\models\\stall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\Register.cs",
+              "RelativeToolTip": "NavExpo\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:44:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\Attendee.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Models\\Attendee.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\Attendee.cs",
+              "RelativeToolTip": "NavExpo\\Models\\Attendee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:41:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Models\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\DatabaseSettings.cs",
+              "RelativeToolTip": "NavExpo\\Models\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:37:00.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "NavExpo\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:52:55.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NavExpo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:52:27.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\Services.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Controllers\\Services.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\Services.cs",
+              "RelativeToolTip": "NavExpo\\Controllers\\Services.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:59:54.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NavExpo\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:48:08.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbVersion.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Data\\DbVersion.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Data\\DbVersion.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Data\\DbVersion.cs",
+              "RelativeToolTip": "NavExpo\\Data\\DbVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:51:46.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MigrationService.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Data\\MigrationService.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Data\\MigrationService.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Data\\MigrationService.cs",
+              "RelativeToolTip": "NavExpo\\Data\\MigrationService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:52:21.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Program.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Program.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Program.cs",
+              "RelativeToolTip": "NavExpo\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:08:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "NavExpo\\DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "NavExpo\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:59:08.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "NavExpo\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "NavExpo\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:59:47.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttendeesController.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\AttendeesController.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Controllers\\AttendeesController.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Controllers\\AttendeesController.cs",
+              "RelativeToolTip": "NavExpo\\Controllers\\AttendeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:53:24.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\User.cs",
+              "RelativeToolTip": "NavExpo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:46:26.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stall.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\Stall.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Models\\Stall.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\Stall.cs",
+              "RelativeToolTip": "NavExpo\\Models\\Stall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:44:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\appsettings.json",
+              "RelativeDocumentMoniker": "NavExpo\\appsettings.json",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\appsettings.json",
+              "RelativeToolTip": "NavExpo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T14:08:46.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventForm.cs",
+              "DocumentMoniker": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\EventForm.cs",
+              "RelativeDocumentMoniker": "NavExpo\\Models\\EventForm.cs",
+              "ToolTip": "C:\\Users\\kutlw\\Documents\\NavigationExplorer\\NavExpo\\NavExpo\\Models\\EventForm.cs",
+              "RelativeToolTip": "NavExpo\\Models\\EventForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:44:30.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
